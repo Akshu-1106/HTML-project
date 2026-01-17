@@ -46,11 +46,16 @@ To get started, you can either:
 3. Right-click on index.html.
 4. Select Open with Live Server.
 
+---
+
 ### Usage
 
 1. View the webpage layout and content.
 2. Interact with UI elements handled by JavaScript.
 3. Modify HTML/CSS/JS files to experiment and learn.
+
+---
+
 ### Project Status
 
 ✅ Completed — Core functionality implemented.
