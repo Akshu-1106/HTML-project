@@ -1,6 +1,6 @@
 # HTML Project
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a **basic front-end web application** built using **HTML, CSS, and JavaScript**.
 
@@ -12,7 +12,7 @@ To get started, you can either:
 
 ---
 
-## Repository Contents
+## 📁 Repository Contents
 
 - `index.html` – Main HTML file  
 - `style.css` – Stylesheet for the project  
@@ -21,14 +21,14 @@ To get started, you can either:
 
 ---
 
-## Requirements
+## 📌 Requirements
 
 - Any modern web browser (Chrome, Firefox, Edge)
 - Code editor (VS Code recommended)
 
 ---
 
-## How to Run
+## 🛠️ How to Run
 
 ### Option 1: Open Directly in Browser
 
@@ -36,7 +36,7 @@ To get started, you can either:
    ```bash
    git clone https://github.com/Akshu-1106/HTML-project.git
 2. Open the project folder.
-3. Double-click index.html.
+3. Double-click `index.html`.
 4. The webpage will open in your browser.
 
 ### Option 2: Run Using VS Code Live Server
@@ -48,7 +48,7 @@ To get started, you can either:
 
 ---
 
-### Usage
+### 🧠 Usage
 
 1. View the webpage layout and content.
 2. Interact with UI elements handled by JavaScript.
